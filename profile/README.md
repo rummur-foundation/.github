@@ -2,7 +2,9 @@
 
 Open-source infrastructure for private communication.
 
-We build [Rummur](https://github.com/rummur-foundation/rummur-protocol) — a decentralized messaging protocol and family of clients. No servers. No accounts. No phone numbers. Messages travel as encrypted transactions on a live peer-to-peer network. Your keys are your identity.
+We build [Rummur](https://github.com/rummur-foundation/rummur-protocol) — pronounced like *rumour* — a decentralized messaging protocol and family of clients. No servers. No accounts. No phone numbers. Messages travel as encrypted transactions on a live peer-to-peer network. Your keys are your identity.
+
+The name is a palindrome: **R·U·M·M·U·R**. The same forwards and backwards — like the symmetric encryption protecting every message.
 
 ---
 
